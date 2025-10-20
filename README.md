@@ -17,13 +17,16 @@
 
 ### 🛠️ Tech Stack
 💻 **Languages:** C, C++, JavaScript  
-🌐 **Web:** HTML, CSS, React.js  
+🌐 **Web:** HTML, CSS
 ⚙️ **Tools:** Git, GitHub, VS Code  
 
 ---
+![Altamash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altamash00777&show_icons=true&theme=tokyonight)
 
-![Altamash's GitHub stats](https://github-readme-stats.vercel.app/api?username=altamash00777&show_icons=true&theme=tokyonight)
 
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:altamasn186@gmail.com)
+---
 
 
 
