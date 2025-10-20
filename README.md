@@ -22,4 +22,9 @@
 
 ---
 
+![Altamash's GitHub stats](https://github-readme-stats.vercel.app/api?username=altamash00777&show_icons=true&theme=tokyonight)
+
+
+
+
 ✨ *“Code. Learn. Build. Repeat.”* 🚀
