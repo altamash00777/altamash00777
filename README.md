@@ -22,6 +22,7 @@
 
 ---
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Altamash00777)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:altamasn186@gmail.com)
 ---
