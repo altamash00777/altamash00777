@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Altamash+Khan;B.Tech+CSE+Student+%7C+AI+Enthusiast;Always+Curious+%7C+Always+Learning">
+</p>
 
-<!--
-**altamash00777/altamash00777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm **Altamash Khan**  
+🎓 *B.Tech CSE Student | Passionate about Web Development & AI*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 **Currently in 3rd Semester**  
+🌱 Learning **Data Structures** and **OOP Concepts**  
+💡 I love creating small projects that solve real-world problems.
+
+---
+
+### 🛠️ Tech Stack
+💻 **Languages:** C, C++, JavaScript  
+🌐 **Web:** HTML, CSS, React.js  
+⚙️ **Tools:** Git, GitHub, VS Code  
+
+---
+
+✨ *“Code. Learn. Build. Repeat.”* 🚀
