@@ -12,8 +12,8 @@ B.Tech CSE Student | Aspiring Software Engineer
 ---
 
 ## Tech Stack
-**Languages:** C, C++, Core Java  
-**Web Technologies:** HTML, CSS  
+**Languages:** C, C++,Javascript  
+**Web Technologies:** HTML5, CSS3 ,React(learning)  
 **Tools & Platforms:** Git, GitHub, VS Code  
 
 ---
