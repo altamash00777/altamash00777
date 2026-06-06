@@ -3,6 +3,10 @@ B.Tech CSE Student | Aspiring Software Engineer
 
 ---
 
+## 🚀 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,git,github,vscode)](https://skillicons.dev)
+
 ## About Me
 - Currently in **4th Semester** of B.Tech CSE  
 - Learning **Data Structures & Algorithms** and **OOP Concepts**  
