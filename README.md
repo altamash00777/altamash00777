@@ -3,10 +3,6 @@ B.Tech CSE Student | Aspiring Software Engineer
 
 ---
 
-## 🚀 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,git,github,vscode)](https://skillicons.dev)
-
 ## About Me
 - Currently in **4th Semester** of B.Tech CSE  
 - Learning **Data Structures & Algorithms** and **OOP Concepts**  
@@ -15,18 +11,16 @@ B.Tech CSE Student | Aspiring Software Engineer
 
 ---
 
-## Tech Stack
-**Languages:** C, C++,Javascript  
-**Web Technologies:** HTML5, CSS3 ,React(learning)  
-**Tools & Platforms:** Git, GitHub, VS Code  
+## 🚀 Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,sql,js,react,nodejs,html,css,git,github,vscode)](https://skillicons.dev)
 ---
 
 ## Currently Working On
 - Strengthening **DSA using C++**
 - Improving **problem-solving skills**
-- Building small projects to apply concepts  
-
+- Building small projects to apply concepts
+- 
 ---
 
 ## Connect With Me
@@ -34,3 +28,4 @@ B.Tech CSE Student | Aspiring Software Engineer
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Altamash00777)
 
+*![GitHub Stats](https://github-readme-stats.vercel.app/api?username=altamash00777&show_icons=true)*
