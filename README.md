@@ -1,4 +1,4 @@
-# Hi, I'm **Altamash Khan**  
+# Hi, I'm **Altamash Khan** <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> 
 B.Tech CSE Student | Aspiring Software Engineer  
 
 ---
