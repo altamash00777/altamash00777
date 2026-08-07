@@ -4,9 +4,9 @@ B.Tech CSE Student | Aspiring Software Engineer
 ---
 
 ## About Me
-- Currently in **4th Semester** of B.Tech CSE  
+- Currently in **5th Semester** of B.Tech CSE  
 - Learning **Data Structures & Algorithms** and **OOP Concepts**  
-- Interested in **Web Development** and **Artificial Intelligence**  
+- Interested in **Full stack Development** and **Artificial Intelligence**  
 - Focused on building reliable and efficient software that solves **real-world problems**
 
 ---
@@ -20,7 +20,7 @@ B.Tech CSE Student | Aspiring Software Engineer
 - Strengthening **DSA using C++**
 - Improving **problem-solving skills**
 - Building small projects to apply concepts
-- 
+- Learning backend development
 ---
 
 ## Connect With Me
